@@ -1,24 +1,21 @@
-## Hi there 👋
-## About me
-Aspiring AI Security Engineer | Penetration testing | Active Directory
+## Aspiring AI Security Engineer | Penetration Testing | Active Directory
 
-## Currently building hands-on skills in:
-- Active Directory attacks (AS-REP Roasting, Kerberoasting, secretsdump)
-- Network fundamentals & lab environments (VirtualBox, Kali, Windows Server 2022)
-- Python scripting for security automation
-- TryHackMe — focusing on AD and offensive security rooms
-
-## Focus
-Specializing in the intersection of AI systems and offensive security.
+Specializing in the intersection of offensive security and AI systems.  
 Long-term goal: AI Red Teaming and LLM security research.
 
-## Currently Learning
-- Python (port scanner, log parser — in progress)
+**Currently building:**
+- Active Directory attacks — AS-REP Roasting, Kerberoasting, secretsdump, wmiexec
+- Lab environment: VirtualBox / Kali / Windows Server 2022
+- Python scripting for security automation (port scanner, log parser)
 - BloodHound / AD enumeration
 - OWASP LLM Top 10
 
-## Labs & Writeups
-[coming soon]
+**Platforms:** TryHackMe — offensive security & AD rooms
+
+---
+
+📄 Labs & Writeups — coming soon  
+🔗 [LinkedIn](your-link-here)
 
 <!--
 **Altraz3/Altraz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
