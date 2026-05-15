@@ -15,7 +15,7 @@ Long-term goal: AI Red Teaming and LLM security research.
 ---
 
 📄 Labs & Writeups — coming soon  
-🔗 [LinkedIn](your-link-here)
+🔗 [LinkedIn](https://www.linkedin.com/in/yauheni-ambrosenko-b3520b40b/)
 
 <!--
 **Altraz3/Altraz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
